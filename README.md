@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is MahnoorSiddiqui ... and I'm a ...Frontend developer., from Karachi , Pakistan....</h2>
+<h2 align="left">Hi 👋! My name is MahnoorSiddiqui and I'm a Frontend developer I'm from Karachi , Pakistan.</h2>
 
 ###
 
